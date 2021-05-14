@@ -1,4 +1,5 @@
 # PeopleInSpace
+Added some stuffs
 
 Minimal **Kotlin Multiplatform** project using Jetpack Compose and SwiftUI.  Currently running on
 * Android (Jetpack Compose)
